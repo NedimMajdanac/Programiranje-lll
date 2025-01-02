@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="frmPocetna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IB230180\frmNovaPorukaIB230180.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IB230180\frmPorukeIB230180.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IB230180\frmPretragaIB230180.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Izvjestaji\frmIzvjestaji.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
